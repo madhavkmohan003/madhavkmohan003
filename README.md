@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Madhav K Mohan</h1>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=42&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&height=100&lines=Madhav+K+Mohan;AI%2FML+Developer;Computer+Vision+Enthusiast;Building+Intelligent+Systems" />
+</p>
 
 <h3 align="center">
 AI/ML Developer • Full Stack Builder • Problem Solver
@@ -91,18 +93,34 @@ YOLO • Computer Vision • Deep Learning
 
 ---
 
-# 📈 GitHub Activity
+# 📊 GitHub Insights
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=madhavkmohan003&theme=github-compact&hide_border=true&area=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=madhavkmohan003&theme=tokyonight_duo&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=madhavkmohan003&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+# 🌌 Building AI That Matters
+
+> Every commit represents learning, experimentation, and innovation.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/madhavkmohan003/.github/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+# 💻 Developer Workspace
+
+<p align="center">
+<img width="45%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+<img width="45%" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
 </p>
 
 ---
@@ -140,5 +158,5 @@ YOLO • Computer Vision • Deep Learning
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=2&section=footer"/>
 </p>
