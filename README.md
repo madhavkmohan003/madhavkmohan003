@@ -90,13 +90,17 @@ YOLO • OpenCV • Computer Vision
 # 📈 GitHub Analytics
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=madhavkmohan003&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhavkmohan003&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=madhavkmohan003&theme=github_dark" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=madhavkmohan003&theme=github-compact&hide_border=true&area=true" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=madhavkmohan003&theme=github_dark" />
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=madhavkmohan003&theme=github_dark" />
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=madhavkmohan003&theme=github-dark-blue&hide_border=true" />
 </p>
 
 ---
