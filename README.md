@@ -24,7 +24,7 @@ AI/ML Developer • Full Stack Builder • Problem Solver
 # 🚀 Languages & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,flask,html,css,javascript,mysql,git,github,vscode,tensorflow,opencv" />
+<img src="https://skillicons.dev/icons?i=python,java,flask,html,css,mysql,git,github,vscode,tensorflow&theme=dark" />
 </p>
 
 ---
@@ -78,7 +78,7 @@ Python • NLP • Machine Learning
 Deep learning-based PCB defect detection system using YOLO for real-time industrial inspection.
 
 **Tech Stack:**  
-YOLO • OpenCV • Computer Vision
+YOLO • Computer Vision • Deep Learning
 
 </td>
 
@@ -134,14 +134,6 @@ YOLO • OpenCV • Computer Vision
 </a>
 
 </p>
-
----
-
-# ⚡ Fun Fact
-
-💡 *“Code + Intelligence = Real World Impact”*
-
-⭐ Always building. Always learning.
 
 ---
 
