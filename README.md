@@ -1,5 +1,13 @@
 <p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTRuMnNwa2g2NnQ2bTFjYmV0aGl6d3h4d2I5d2x5YWl5Z2V5cTQ4biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:007CF0,100:7928CA&height=280&section=header&text=Madhav%20K%20Mohan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Developer%20|%20Computer%20Vision%20|%20Full%20Stack%20Builder&descAlignY=58&descSize=20" />
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+Real+World+AI+Systems;Python+%7C+Flask+%7C+YOLO;Machine+Learning+%26+Computer+Vision;Always+Learning+New+Things" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=madhavkmohan003&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 <h3 align="center">
@@ -115,11 +123,10 @@ YOLO • Computer Vision • Deep Learning
 
 ---
 
-# 🤖 AI • Code • Create
+**🤖 AI • Code • Create**
 
 <p align="center">
 <img width="45%" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" />
-
 <img width="45%" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
 </p>
 
