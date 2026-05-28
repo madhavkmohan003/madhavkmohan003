@@ -3,6 +3,12 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=AI+%26+ML+Developer;Computer+Vision+Enthusiast;Building+Real+World+Projects;Python+%7C+Flask+%7C+YOLO;Always+Learning+New+Things" />
 </p>
 
+<p align="center">
+
+> ⚡ Turning ideas into intelligent applications through AI and software engineering.
+
+</p>
+
 ---
 
 # 👨‍💻 About Me
@@ -13,9 +19,6 @@
 - 🚀 Building intelligent systems that solve real-world problems
 - 🧠 Currently exploring **Deep Learning, Flask & Explainable AI**
 - ⚡ Turning ideas into impactful applications
-<p align="right">
-<img src="https://komarev.com/ghpvc/?username=madhavkmohan003&color=1f6feb&style=flat-square" height="18"/>
-</p>
 
 ---
 
@@ -86,6 +89,10 @@ YOLO • Computer Vision • Deep Learning
 ---
 
 # 📊 GitHub Insights
+
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=madhavkmohan003&color=1f6feb&style=flat-square" height="18"/>
+</p>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhavkmohan003&theme=tokyonight_duo&hide_border=true" />
