@@ -1,13 +1,11 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:007CF0,100:7928CA&height=280&section=header&text=Madhav%20K%20Mohan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Developer%20|%20Computer%20Vision%20|%20Full%20Stack%20Builder&descAlignY=58&descSize=20" />
-</p>
 
-<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=AI+%26+ML+Developer;Computer+Vision+Enthusiast;Building+Real+World+Projects;Python+%7C+Flask+%7C+YOLO;Always+Learning+New+Things" />
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=madhavkmohan003&label=Profile%20Views&color=0e75b6&style=flat" />
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=madhavkmohan003&color=1f6feb&style=flat-square" height="18"/>
 </p>
 
 ---
