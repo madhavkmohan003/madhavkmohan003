@@ -87,14 +87,10 @@ YOLO • Computer Vision • Deep Learning
 
 ---
 
-# 📈 GitHub Analytics
+# 📈 GitHub Activity
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=madhavkmohan003&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhavkmohan003&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&langs_count=6&hide=jupyter%20notebook" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=madhavkmohan003&theme=github-compact&hide_border=true&area=true" />
 </p>
 
 ---
