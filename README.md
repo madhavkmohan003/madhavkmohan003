@@ -6,11 +6,15 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=AI+%26+ML+Developer;Computer+Vision+Enthusiast;Building+Real+World+Projects;Python+%7C+Flask+%7C+YOLO;Always+Learning+New+Things" />
 </p>
 
-<p align="center" style="margin-top:-12px; color:#8b949e; font-size:16px;">
+<div align="center">
+
+<span style="color:#8b949e; font-size:16px;">
 
 ⚡ Turning ideas into intelligent applications through AI and software engineering.
 
-</p>
+</span>
+
+</div>
 
 <hr>
 
