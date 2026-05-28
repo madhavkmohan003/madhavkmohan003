@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=42&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&height=100&lines=Madhav+K+Mohan;AI%2FML+Developer;Computer+Vision+Enthusiast;Building+Intelligent+Systems" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTRuMnNwa2g2NnQ2bTFjYmV0aGl6d3h4d2I5d2x5YWl5Z2V5cTQ4biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="100%" />
 </p>
 
 <h3 align="center">
@@ -105,7 +105,7 @@ YOLO • Computer Vision • Deep Learning
 
 ---
 
-# 🌌 Building AI That Matters
+**🌌 Building AI That Matters**
 
 > Every commit represents learning, experimentation, and innovation.
 
@@ -115,12 +115,12 @@ YOLO • Computer Vision • Deep Learning
 
 ---
 
-# 💻 Developer Workspace
+# 🤖 AI • Code • Create
 
 <p align="center">
-<img width="45%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img width="45%" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" />
 
-<img width="45%" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
+<img width="45%" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
 </p>
 
 ---
@@ -159,4 +159,8 @@ YOLO • Computer Vision • Deep Learning
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=2&section=footer"/>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
 </p>
