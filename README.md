@@ -5,73 +5,98 @@ AI/ML Developer • Full Stack Builder • Problem Solver
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+ML+Developer;Computer+Vision+Enthusiast;Flask+%7C+Python+Developer;Building+Real+World+Projects;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=AI+%26+ML+Developer;Computer+Vision+Enthusiast;Building+Real+World+Projects;Python+%7C+Flask+%7C+YOLO;Always+Learning+New+Things" />
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-- 🎓 CSE AIML Student at SRM Institute of Science and Technology
-- 🤖 Passionate about AI, ML, Computer Vision & Full Stack Development
-- 🌍 Interested in AI solutions for Clean Water & Sanitation
+- 🎓 CSE AIML Student at **SRM Institute of Science and Technology**
+- 🤖 Passionate about **Artificial Intelligence, Machine Learning & Computer Vision**
+- 🌍 Interested in AI solutions for **Clean Water & Sanitation**
 - 🚀 Building intelligent systems that solve real-world problems
-- 🧠 Currently learning Deep Learning & Advanced Flask Development
+- 🧠 Currently exploring **Deep Learning, Flask & Explainable AI**
+- ⚡ Turning ideas into impactful applications
 
 ---
 
-# 🚀 Languages and Tools
+# 🚀 Languages & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,flask,java,html,css,javascript,mysql,git,github,vscode,tensorflow,opencv" />
+<img src="https://skillicons.dev/icons?i=python,java,flask,html,css,javascript,mysql,git,github,vscode,tensorflow,opencv" />
 </p>
 
 ---
 
-# 🔥 Featured Projects
+# 🚀 Featured Projects
 
-## 🌊 Explainable Water Quality Prediction
-AI/ML-based water contamination prediction system with explainable insights for sanitation improvement.
+<table>
+<tr>
+
+<td width="50%">
+
+### 🌊 [Explainable Water Quality Prediction](https://github.com/madhavkmohan003/Explainable-Water-Quality-Prediction)
+
+AI-powered water quality prediction system with explainable insights for contamination analysis and sanitation improvement.
+
+**Tech Stack:**  
+Python • Machine Learning • Data Analysis
+
+</td>
+
+<td width="50%">
+
+### 🏨 [Hotel Management System](https://github.com/madhavkmohan003/HotelManagement)
+
+A Java-based hotel management application with booking, customer handling, and management functionalities.
+
+**Tech Stack:**  
+Java • MySQL • GUI
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 📝 [Automated Essay Scoring System](https://github.com/madhavkmohan003/AES-System)
+
+AI-driven essay scoring platform for automatic evaluation and intelligent grading analysis.
+
+**Tech Stack:**  
+Python • NLP • Machine Learning
+
+</td>
+
+<td width="50%">
+
+### 🔍 [PCB Defect Detection using YOLO](https://github.com/madhavkmohan003/PCB-defect-detection-Application-using-YOLO-Model-)
+
+Deep learning-based PCB defect detection system using YOLO for real-time industrial inspection.
+
+**Tech Stack:**  
+YOLO • OpenCV • Computer Vision
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 🛡️ FraudShield: Detecting Credit Card Fraud with ML
-Machine learning-based fraud detection system for identifying suspicious credit card transactions.
-
----
-
-## 🏨 Hotel Management System
-Java-based hotel management system with booking and customer management features.
-
----
-
-## 🚗 IoT Smart Parking
-IoT-powered smart parking solution using Arduino and ultrasonic sensors.
-
----
-
-## 📝 Automated Essay Scoring System
-AI-powered essay evaluation system for automatic grading and analysis.
-
----
-
-## 📩 Spam Detection
-Machine learning-based spam message classification system.
-
----
-
-# 📊 GitHub Stats
+# 📈 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=madhavkmohan003&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=madhavkmohan003&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhavkmohan003&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=madhavkmohan003&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhavkmohan003&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=madhavkmohan003&theme=github-compact&hide_border=true&area=true" />
 </p>
 
 ---
@@ -110,6 +135,12 @@ Machine learning-based spam message classification system.
 
 # ⚡ Fun Fact
 
-💡 “Code + Intelligence = Real World Impact”
+💡 *“Code + Intelligence = Real World Impact”*
 
-⭐ Always building, always learning.
+⭐ Always building. Always learning.
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+</p>
