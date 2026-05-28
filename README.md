@@ -8,6 +8,10 @@ AI/ML Developer • Full Stack Builder • Problem Solver
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=AI+%26+ML+Developer;Computer+Vision+Enthusiast;Building+Real+World+Projects;Python+%7C+Flask+%7C+YOLO;Always+Learning+New+Things" />
 </p>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=madhavkmohan003&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
 ---
 
 # 👨‍💻 About Me
@@ -91,6 +95,14 @@ YOLO • Computer Vision • Deep Learning
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhavkmohan003&theme=github-compact&hide_border=true&area=true" />
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/madhavkmohan003/madhavkmohan003/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
